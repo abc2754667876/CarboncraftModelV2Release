@@ -23,58 +23,72 @@ CarboncraftModelV2可以识别生活中十余种常见低碳场景，其原理�
 # 拍照识别示例
 ## pubTraffic_bus
 可拍摄公交车车身，如下图：
+
 ![alt text](images/pubTraffic_bus.jpeg)
 
 ## pubTraffic_subway
 可拍摄地铁站或车厢内部，如下图：
+
 ![alt text](images/pubTraffic_subway.jpeg)
 
 ## pubTraffic_boat
 可拍摄船体或水域，如下图：
+
 ![alt text](images/pubTraffic_boat.jpg)
 
 ## pubTraffic_train
 可拍摄高铁/火车车身，如下图：
+
 ![alt text](images/pubTraffic_train.jpg)
 
 ## pubTraffic_coach
 可拍摄长途汽车车身，如下图：
+
 ![alt text](images/pubTraffic_coach.jpg)
 
 ## bike
 可拍摄自行车车身，如下图：
+
 ![alt text](images/bike.jpg)
 
 ## eleBike
 可拍摄电车车身，如下图：
+
 ![alt text](images/eleBike.jpg)
 
 ## shopBag
 可拍摄环保购物袋，如下图：
+
 ![alt text](images/shopBag.jpg)
 
 ## waterbottle
 可拍摄水杯，如下图：
+
 ![alt text](images/waterbottle.jpg)
 
 ## trash
 可拍摄分类垃圾桶，如下图：
+
 ![alt text](images/trash.jpg)
 
 ## homePlant
 可拍摄家庭种植的观赏性植物/蔬菜水果等，如下图：
+
 ![alt text](images/homePlant.jpg)
 
 ## lunchBox
 可拍摄餐盘/保温饭盒/便当盒，如下图：
+
 ![alt text](images/lunchBox.jpg)
 
 ## mac_mini_m4
 可拍摄Mac mini(M4)机身，该产品为碳中和电子产品，如下图：
+
 ![alt text](images/mac_mini_m4.jpg)
 
 ## apple_watch
 可拍摄Apple Watch系列机身，该系列产品为碳中和电子产品，如下图：
+
 ![alt text](images/apple_watch.jpg)
 
 # 图像数据源采集说明
